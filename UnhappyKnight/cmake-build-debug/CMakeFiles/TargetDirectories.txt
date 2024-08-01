@@ -1,0 +1,3 @@
+/home/housseinimdb/Bureau/sdlcode/UnhappyKnight/cmake-build-debug/CMakeFiles/UnhappyKnight.dir
+/home/housseinimdb/Bureau/sdlcode/UnhappyKnight/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/housseinimdb/Bureau/sdlcode/UnhappyKnight/cmake-build-debug/CMakeFiles/rebuild_cache.dir

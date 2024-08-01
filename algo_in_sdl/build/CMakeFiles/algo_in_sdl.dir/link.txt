@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/algo_in_sdl.dir/main.cpp.o -o algo_in_sdl  -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer 
